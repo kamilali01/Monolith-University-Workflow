@@ -1,10 +1,9 @@
-University Workflow Automation – Monolithic Architecture
-Overview
+#University Workflow Automation – Monolithic Architecture
 
+##Overview
 This project presents a monolithic implementation of a university workflow automation system developed using ASP.NET Core (.NET 8). The system is designed as a baseline architecture for subsequent transformation into a microservice-based architecture as part of a research study on software architectural evolution in higher education systems.
 
-Purpose
-
+##Purpose
 The primary objective of this implementation is to:
 
 Model core university workflow processes
@@ -43,7 +42,7 @@ Centralized business logic
 
 Integrated audit logging mechanism
 
-Technologies Used
+##Technologies Used
 
 .NET 8
 
@@ -67,7 +66,7 @@ Internalized notification mechanism
 
 These limitations serve as controlled design constraints for subsequent microservice decomposition and comparative architectural evaluation.
 
-Research Context
+#Research Context
 
 This implementation forms the baseline model for an academic study titled:
 
