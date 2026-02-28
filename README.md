@@ -14,9 +14,9 @@ Enable architectural comparison with a microservice-based design
 
 Support academic research on scalability, modularity, and system evolution
 
-Implemented Workflow Scenario
+## Implemented Workflow Scenario
 
-The system simulates a simplified academic process:
+### The system simulates a simplified academic process:
 
 Student registration
 
@@ -30,7 +30,7 @@ Audit logging of workflow events
 
 Simulated notification handling upon approval
 
-Architecture Characteristics
+## Architecture Characteristics
 
 Single deployable ASP.NET Core Web API
 
@@ -54,7 +54,7 @@ SQLite
 
 Swagger (OpenAPI)
 
-Architectural Limitations (Intentional for Research Purposes)
+## Architectural Limitations (Intentional for Research Purposes)
 
 Tight coupling between modules
 
